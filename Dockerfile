@@ -8,7 +8,7 @@
 
 FROM tomcat:6.0
 
-MAINTAINER Toni Pesola
+MAINTAINER Telyn
 
 # Install libs for transcoding
 RUN apt-get update && \
